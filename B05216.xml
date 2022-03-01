@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of the Committee of Estates for bringing up of deficients and runawayes, and quartering of them, and for ane [sic] account from the shires of their diligence in execution of former publike Acts. April 23. 1645.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05216</idno>
+            <idno type="STC">Wing S1129DA</idno>
+            <idno type="STC">ESTC R183939</idno>
+            <idno type="EEBO-CITATION">51617468</idno>
+            <idno type="OCLC">ocm 51617468</idno>
+            <idno type="VID">175352</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175352)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2730:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of the Committee of Estates for bringing up of deficients and runawayes, and quartering of them, and for ane [sic] account from the shires of their diligence in execution of former publike Acts. April 23. 1645.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+                  <author>Primrose, Archibald, Sir, 1616-1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Evan Tyler,</publisher>
+                  <pubPlace>[Edinburgh ;</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Signed at end: Arch. Primerose.</note>
+                  <note>An act enforcing penalties against deserters from the Army in Scotland during the Civil War, 1642-1649.</note>
+                  <note>Imperfect: foot of sheet cropped with loss of imprint.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Desertions --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:175352:1" rendition="simple:additions"/>
+            <head>ACT <hi>Of the Committee of Eſtates for bringing up of Deficients and Runawayes, and Quartering of them, and for ane account from the Shires of their diligence in execution of former publike Acts.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>April 23. 1645.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Committee of Eſtates, Taking into conſideration The many Acts of Parliament, and Orders ſent to the Shires For raiſing and putting out of their Deficients and Runawayes of the former Leavies, And the ſmall effects that the ſame hes wrought hithertils, upon pre<g ref="char:EOLhyphen"/>text that there is no allowance ſetled for the maintenance of theſe Souldiers &amp; Runawayes till they be carried to their Colours; Notwithſtanding that the ſame be provided to be out of the readieſt of the Fines of ſuch as have reſet any of them, And out of the Exciſe, conform to the Act of Parliament made the 14 <hi>Junii</hi> 1644. And the Act of Parliament made the 18 of <hi>Julii</hi> 1644. Both in the firſt Seſſion of this preſent currant Parliament: Therefore they have ordained, Likeas the Committee of Eſtates by thir preſents ordain, That whatever Deficients or Runawayes ſhall be apprehended within any Shire by the Commiſſioners of the Shire appointed for that effect, Shall be entertained from the time of their firſt apprehend<g ref="char:EOLhyphen"/>ing till they be ſent to their Colours, out of the firſt end of the Fines of Deficients and Reſetters of Runawayes, at the rate of Four ſhillings Scots a day the Foot, And Horſmen at Fourteen ſhillings, ſua long as they ſtay within the Shire where they are or ſhal be apprehended, And four ſhillings a day thereafter, till they be brought to their Colours and Companies, They Matching 12 Milesilk day at leaſt; And the Horſmen at Fourteen ſhillings daily, they March<g ref="char:EOLhyphen"/>ing 20 Miles daily: And failing of the foreſaids Fines of Deficients and Reſetters of Runawayes, That the ſame be paid out of the Exciſe of the Shire within the which the ſaids Deficients and Runawayes ſhall happen to be appre<g ref="char:EOLhyphen"/>hended and put out, as ſaid is: And to that effect ordains the Commiſsioners of ilk Shire for uplifting of the ſaids Fines, and the Collectors of the Exciſe <hi>reſpectivè,</hi> as ſaid is, To advance to the Committee of Warre within the ſe<g ref="char:EOLhyphen"/>verall Shires the ſaids ſums for entertainment and upbringing of the ſaids Deficients and Runawayes to their Colours and Companies. And ſicklike the Committee of Eſtates ordains, that whatever Deficients or Runawayes ſhall be apprehended within any Burgh by the Magiſtrates of the Burghes, who are both Commiſsioners within themſelves for Deficients and Runawayes, And als Collectors of the Exciſe and Fines of the Deficients and Reſetters of the Runawayes, Shall be entertained from the time of their firſt apprehending till they be ſent to their Colours, out of the firſt end of the Fines of Deficients and Reſetters of Runawayes, at the rate of Four ſhillings Scots a day ſua long as they ſtay within the Burgh where they are or ſhall be apprehended, and Four ſhillings a day thereafter till they be brought to their Companies and Colours, They Marching 12 Miles ilk day at leaſt, And Horſmen as aforeſaid: And failing of the foreſaids Fines of Deficients and Reſetters of Runawayes, That the ſame be paid out of the Exciſe of the Burgh within the which the ſaid, Runawayes and Deficients ſhall happen to be apprehended and put out, as ſaid is. And to that effect, ordains the Magiſtrates and Commiſsioners of ilk Burgh for uplifting of the ſaids Fines, and the Collectors of the Exciſe <hi>reſpectivè,</hi> as ſaid is, To advance to the Committee of Warre of the Shires <hi>reſpectivè,</hi> within the which the ſaids Burghs lies, The foreſaids ſums for entertainment and upbringing of the ſaids Deficients and Runawayes to their Companies and Colours. And to the effect the Committee of Eſtates may get an account of the diligence of the Shires and Burrows <hi>reſpectivè,</hi> in putting out of Deficients and Runawayes, and exacting of the penalties of the Reſetters, and in putting their Shires and Burghs in a Poſture of Warre, and performing all other publike duties, conforme to the publike Acts given out for that purpoſe, They do ordain Meſſengers of Arms To paſſe and charge the Committee of Warre of the ſeverall Shires within this Kingdom, To compeir by one of their number ſufficiently inſtructed by them, before the Committe of Eſtates at <hi>Edinburgh,</hi> or where it ſhall happen them to be for the time, upon the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Provided to give an account of the particulars foreſaids, And to hear and ſee courſe taken thereanent, conforme to the Acts made thereanent, With certification to the Committees of Warre if they failȝie therein, The Committee will proceed and Fine them and every one of them, in ſuch ſums as ſhall be thought fitting, And Letters direct againſt them for payment of the ſaids Fines: And declares that ane Copie hereof being given Judicially to the Conveener or Preſident of the Committees of Warre <hi>re<g ref="char:EOLhyphen"/>ſpectivè</hi> at their Seſſion, in preſence of theſe who ſhall be preſent, ſhall be als ſufficient againſt the whole perſons on the Committees of Warre <hi>reſpectivè,</hi> as if ane Copie hereof had been given to every one of them in particular.</p>
+            <closer>
+               <signed>Arch. Primeroſe.</signed>
+            </closer>
+            <pb facs="tcp:175352:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
